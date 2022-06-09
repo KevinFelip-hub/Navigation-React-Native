@@ -1,7 +1,7 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
 import {SafeAreaView, Text} from 'react-native';
-import TextoCentral from './components/TextoCentral';
+// import TextoCentral from './components/TextoCentral';
 import TelaA from './views/TelaA';
 import TelaB from './views/TelaB';
 import TelaC from './views/TelaC';
